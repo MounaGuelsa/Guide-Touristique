@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@drawable/porte">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_location_city_24"
+            android:title="Villes à visiter" />
+        <item
+            android:id="@+id/nav_message"
+            android:icon="@drawable/ic_baseline_wb_sunny_24"
+            android:title="Méteo" />
+        <item
+            android:id="@+id/synch"
+            android:icon="@drawable/ic_baseline_calendar_month_24"
+            android:title="Agenda" />
+        <item
+            android:id="@+id/trash"
+            android:icon="@drawable/ic_baseline_error_24"
+            android:title="A propos" />
+
+    </menu>

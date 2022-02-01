@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691654642161",
+    "firebase_url": "https://homguide-382dd-default-rtdb.firebaseio.com",
+    "project_id": "homguide-382dd",
+    "storage_bucket": "homguide-382dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691654642161:android:a90f9c9965ada0bf5f5c50",
+        "android_client_info": {
+          "package_name": "com.example.guidehom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691654642161-fegot4oogqk3nb0chrgru7vthvk7q2bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-x4CY9jusrpXWww7NmYau6prUvZZdg6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691654642161-fegot4oogqk3nb0chrgru7vthvk7q2bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
